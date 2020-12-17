@@ -6,4 +6,4 @@
 ![Preview](./screenshot/pacific-nights-screenshot.png)
 
 ## Credits
-Typography by Youssef Habchi.
+Javacom font by Youssef Habchi.
