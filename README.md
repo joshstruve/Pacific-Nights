@@ -1,7 +1,7 @@
 # Pacific Nights
 3D animated scene designed in html, css, javascript & three.js.
 
-[See it live.](https://joshstruve.github.io/Pacific-Nights/)
+<a href="https://joshstruve.github.io/Pacific-Nights/" target="_blank">See it live.</a>
 
 ![Preview](./screenshot/pacific-nights-screenshot.png)
 
