@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'javacomregular';
+    src: url('./webfonts/javacom-bw0aw-webfont.eot');
+    src: url('./webfonts/javacom-bw0aw-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./webfonts/javacom-bw0aw-webfont.woff2') format('woff2'),
+         url('./webfonts/javacom-bw0aw-webfont.woff') format('woff'),
+         url('./webfonts/javacom-bw0aw-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	margin: 0;
+	background-color: #000;
+	height:100vh;
+	width: 100%;
+	overflow: visible;
+	font-family: sans-serif;
+}
+
+.hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height:100vh;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	/* pointer-events: none; */
+}
+
+h1{
+	font-size: 5.5vw;
+	color: #ff4081;
+	background: -webkit-linear-gradient(#bf5f82, #ff4081);
+	background-clip: text;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+	font-family: 'javacomregular';
+	font-weight: 100;
+}
+
