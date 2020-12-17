@@ -1,5 +1,5 @@
 # Pacific-Nights
-3D scene designed in html, css, javascript & three.js.
+3D animated scene designed in html, css, javascript & three.js.
 
 Typography by Youssef Habchi.
 
