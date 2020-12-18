@@ -44,3 +44,9 @@ h1{
 	font-weight: 100;
 }
 
+@media only screen and (max-width: 600px) {
+	h1 {
+		font-size: 9vw;
+	}
+}
+
